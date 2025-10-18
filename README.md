@@ -29,4 +29,8 @@ Each project is hosted in its own repository with full code and documentation.
 - [View Repository](https://github.com/c23025758/CM1102)
 
 ### CM1103 – Problem Solving with Python
-- [View Repository](https://github.com/c23025758/CM1103)
+- [View Repository](https://github.com/c23025758/CM1103) 
+
+### CM2208 - Scientific Computing
+- [View Repository](https://github.com/c23025758/CM2208)
+
