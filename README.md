@@ -1,4 +1,4 @@
-# university-projects
+# University-projects
 University projects
 # University Projects Portfolio
 
