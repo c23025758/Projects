@@ -1,6 +1,6 @@
-# University-projects
-University projects
-# University Projects Portfolio
+# Projects
+University projects & personal projects
+# Projects Portfolio
 
 This repository showcases my coursework projects developed during my Computer Science degree.  
 Each project is hosted in its own repository with full code and documentation.  
